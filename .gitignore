@@ -1,0 +1,11 @@
+# Removed Main.java file --> It's used for practices
+**/Main.java
+
+# Removed all .iml files --> Intellij Specific, used for keeping module configuration
+**/*.iml
+
+# Removed all .xml files --> Used for project configuration
+**/*.xml
+
+# Removed out folder --> Output directory of out code, we don't need it
+/out
